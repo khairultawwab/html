@@ -1,0 +1,6 @@
+{
+  "name": "Mini-CMS & HTML Hosting",
+  "description": "Aplikasi Mini-CMS dan hosting laman web HTML statik berasaskan Next.js 15, Prisma ORM, dan PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
